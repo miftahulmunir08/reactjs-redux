@@ -1,0 +1,80 @@
+{
+    "users":[
+    { 
+    "id": 1, 
+    "nama": "afifudim jam", 
+    "alamat": "malang", 
+    "umur": 24, 
+    "nohp": "08551886763" 
+    },
+    {
+   "id": 2,
+   "nama": "miftahul anwar",
+   "alamat": "pekalongan",
+   "umur": 26,
+   "nohp": "087123"
+   },
+   { 
+    "id": 3, 
+    "nama": "zainudin", 
+    "alamat": "jember", 
+    "umur": 27, "nohp": "08771" 
+   },
+   {
+    "id": 4, 
+    "nama": "munir", 
+    "alamat": "denpasar", 
+    "umur": 27, 
+    "nohp": "086512" 
+   },
+   { 
+    "id": 5, 
+    "nama": "agnes", 
+    "alamat": "kuta", 
+    "umur": 27, 
+    "nohp": "086512" 
+   },
+   {
+    "id": 6,
+    "nama": "yohanes",
+    "alamat": "banyuwangi",
+    "umur": 27,
+    "nohp": "086512"
+  },
+  { 
+    "id": 7, 
+    "nama": "sofiul nadir", 
+    "alamat": "sumenep", 
+    "umur": 27, 
+    "nohp": "086512" 
+  },
+  { 
+    "id": 8, 
+    "nama": "dahlia", 
+    "alamat": "malang", 
+    "umur": 27, 
+    "nohp": "086512" 
+  },
+  { 
+    "id": 9, 
+    "nama": "jebi", 
+    "alamat": "genteng", 
+    "umur": 27, 
+    "nohp": "086512" },
+   { 
+    "id": 10, 
+    "nama": "sammy", 
+    "alamat": "jakarta", 
+    "umur": 27, 
+    "nohp": "086512" 
+   },
+   { 
+    "id": 11, 
+    "nama": "ryan", 
+    "alamat": "solo", 
+    "umur": 27, 
+    "nohp": "086512"
+   }
+]
+} 
+
